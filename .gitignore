@@ -99,6 +99,7 @@ ENV/
 .#*
 
 # Pycharm
+.idea
 !/.idea# C++ objects and libs
 *.slo
 *.lo
